@@ -32,7 +32,9 @@ For Android Version :
 ### ⚠️ Make Sure To Remove 'tcp://' from the ip before using it
 
 ![screenshot](https://github.com/AbdellahDeveloper/A_EasyPC/blob/main/screenshot_1.png?raw=true)
+
 4. Fill the Password With 'aeasypc@1'
+
 ![screenshot](https://github.com/AbdellahDeveloper/A_EasyPC/blob/main/screenshot_2.png?raw=true)
 
 #### For Android

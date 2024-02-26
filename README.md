@@ -29,7 +29,6 @@ For Android Version :
 1. Open Start Menu
 2. Type "Remote Desktop Connection" and Open it
 3. Fill ip with what you got from the app , and the username with 'runneradmin'
-### ⚠️ Make Sure To Remove 'tcp://' from the ip before using it
 
 ![screenshot](https://github.com/AbdellahDeveloper/A_EasyPC/blob/main/screenshot_1.png?raw=true)
 
